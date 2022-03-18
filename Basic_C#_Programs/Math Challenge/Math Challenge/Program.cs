@@ -18,6 +18,12 @@ namespace Math_Challenge
             Console.WriteLine("Those numbers multiplied by each other is: " + num3);
             num3 = num1 / num2;
             Console.WriteLine("Those numbers divided by each other is: " + num3);
+            Console.Write("Please input your first name: ");
+            string fname = Console.ReadLine();
+            Console.Write("Please input your last name: ");
+            string lname = Console.ReadLine();
+            string fullname = fname + " " + lname;
+            Console.WriteLine("Your full name is: " + fullname);
             Console.ReadLine();
         }
     }
