@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\bin\Debug\Approval Program.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\bin\Debug\Approval Program.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\bin\Debug\Approval Program.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\obj\Debug\Approval Program.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\obj\Debug\Approval Program.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\obj\Debug\Approval Program.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Approval Program\Approval Program\obj\Debug\Approval Program.pdb
