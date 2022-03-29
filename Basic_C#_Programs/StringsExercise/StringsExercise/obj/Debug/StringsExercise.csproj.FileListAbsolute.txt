@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\bin\Debug\StringsExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\bin\Debug\StringsExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\bin\Debug\StringsExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\obj\Debug\StringsExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\obj\Debug\StringsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\obj\Debug\StringsExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringsExercise\StringsExercise\obj\Debug\StringsExercise.pdb
