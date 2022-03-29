@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\bin\Debug\NumFinderGame.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\bin\Debug\NumFinderGame.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\bin\Debug\NumFinderGame.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\obj\Debug\NumFinderGame.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\obj\Debug\NumFinderGame.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\obj\Debug\NumFinderGame.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\NumFinderGame\NumFinderGame\obj\Debug\NumFinderGame.pdb
