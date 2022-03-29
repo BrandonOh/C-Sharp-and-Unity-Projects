@@ -14,7 +14,7 @@ namespace Approval_Program
             Console.Write("How many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Qualified?");
-            if ((age > 15) && (DUI == false) && (tickets <= 3))
+            if ((age >= 15) && (DUI == false) && (tickets <= 3))
             {
                 qualified = true;
             }
