@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.pdb

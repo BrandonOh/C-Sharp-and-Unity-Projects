@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
