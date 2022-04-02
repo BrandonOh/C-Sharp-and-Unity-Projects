@@ -57,7 +57,10 @@ namespace GroceryList
             attendees.Add("Sadie");
             attendees.Add("Bob");
             attendees.Add("Tom");
-            attendees.Add("Jill");
+            attendees.Add("Jill"); 
+            attendees.Add("Brandon");
+            attendees.Add("Robert");
+            attendees.Add("Tammy");
 
             Console.WriteLine("\nType a name to search through attendees: ");
             Console.WriteLine("Bob - Jeremy - Robert - Sadie - Tom - Jill");
@@ -80,6 +83,47 @@ namespace GroceryList
                     }
                 }
             }
+
+            Console.WriteLine("\n");
+
+            int start = 0;
+
+            List<string> multiples = new List<string>();
+            List<string> singles = new List<string>();
+
+            foreach (string element in attendees)
+            {
+                if(multiples.Contains(element) == true)
+                {
+                    start++;
+                    continue;
+                }
+                int i = 0;
+                for (i = start; i < attendees.Count; i++)
+                {
+                    if (i == attendees.Count - 1)
+                    {
+                        singles.Add(attendees[start]);
+                    }
+                    else if (element == attendees[i + 1])
+                    {
+                        multiples.Add(attendees[start]);
+                break;
+                    }
+                }
+                start++;
+            }
+
+            foreach (string element in multiples)
+            {
+                Console.WriteLine(element + " comes up multiple times.");
+            }
+
+            foreach (string element in singles)
+            {
+                Console.WriteLine(element + " comes up one time.");
+            }
+
             Console.ReadLine();
         }
     }
