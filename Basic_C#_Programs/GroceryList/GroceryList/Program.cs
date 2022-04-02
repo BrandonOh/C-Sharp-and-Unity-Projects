@@ -18,8 +18,8 @@ namespace GroceryList
                 groceryList[i - 1] = Console.ReadLine();
             }
 
-            Console.Write("\nGrocery List:");
-            for (int i = 0; i < amount; i++)
+            Console.WriteLine("\nGrocery List:");
+            for (int i = 0; i <= amount - 1; i++)
             {
                 Console.WriteLine(groceryList[i]);
             }
