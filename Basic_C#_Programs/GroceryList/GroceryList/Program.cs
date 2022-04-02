@@ -49,8 +49,38 @@ namespace GroceryList
                     }
                 }
             }
-            Console.ReadLine();
 
+            List<string> attendees = new List<string>();
+            attendees.Add("Bob");
+            attendees.Add("Jeremy");
+            attendees.Add("Robert");
+            attendees.Add("Sadie");
+            attendees.Add("Bob");
+            attendees.Add("Tom");
+            attendees.Add("Jill");
+
+            Console.WriteLine("\nType a name to search through attendees: ");
+            Console.WriteLine("Bob - Jeremy - Robert - Sadie - Tom - Jill");
+            
+            string name = Console.ReadLine();
+            bool foundName = false;
+
+            for (int i = 0; i < attendees.Count; i++)
+            {
+                if(name == attendees[i])
+                {
+                    Console.WriteLine(i);
+                    foundName = true;
+                }
+                else
+                {
+                    if (i == attendees.Count - 1 && foundName == false)
+                    {
+                        Console.WriteLine("invalid input");
+                    }
+                }
+            }
+            Console.ReadLine();
         }
     }
 }
