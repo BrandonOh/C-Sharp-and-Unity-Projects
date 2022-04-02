@@ -23,7 +23,34 @@ namespace GroceryList
             {
                 Console.WriteLine(groceryList[i]);
             }
+
+            List<string> superMarket = new List<string>();
+            superMarket.Add("Stop n Shop");
+            superMarket.Add("King Kullen");
+            superMarket.Add("Bravo");
+            superMarket.Add("S Mart");
+            superMarket.Add("Holiday Farms");
+
+            Console.WriteLine("\nWhat super market would you like to go to?");
+            Console.WriteLine("Stop n Shop - King Kullen - Bravo - S Mart - Holiday Farms");
+            string marketChoice = Console.ReadLine();
+            for (int i = 0; i < superMarket.Count; i++)
+            {
+                if (marketChoice == superMarket[i])
+                {
+                    Console.WriteLine(i);
+                    break;
+                }
+                else
+                {
+                    if(i == superMarket.Count - 1)
+                    {
+                        Console.WriteLine("invalid input");
+                    }
+                }
+            }
             Console.ReadLine();
+
         }
     }
 }
