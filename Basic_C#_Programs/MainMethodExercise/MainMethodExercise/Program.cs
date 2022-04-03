@@ -31,7 +31,7 @@ namespace MainMethodExercise
                 Console.WriteLine(fe.Message);
             }
 
-            int num3 = Operation.multBy15(num1, num2 = 15);
+            int num3 = Operation.multBy15(num1);
             
             Console.WriteLine(num3);
             Console.ReadLine();

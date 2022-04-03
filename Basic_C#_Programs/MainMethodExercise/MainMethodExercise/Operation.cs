@@ -35,7 +35,7 @@ namespace MainMethodExercise
             return c;
         }
 
-        public static int multBy15(int num1, int num2)
+        public static int multBy15(int num1, int num2 = 15)
         {
             int c = num1 * num2;
             return c;
