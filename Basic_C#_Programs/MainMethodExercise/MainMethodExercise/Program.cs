@@ -31,11 +31,16 @@ namespace MainMethodExercise
                 Console.WriteLine(fe.Message);
             }
 
-            int num3 = Operation.multBy15(num1);
+            int num3 = operation.multBy15(num1);
             
             Console.WriteLine(num3);
 
             Operation.addAndDisplay(30, num2: 60);
+
+            Console.Write("Please input a number: ");
+            int num4 = Convert.ToInt32(Console.ReadLine());
+
+            operation.divideData(num4);
             Console.ReadLine();
         }
     }

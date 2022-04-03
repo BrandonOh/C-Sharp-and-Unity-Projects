@@ -35,7 +35,7 @@ namespace MainMethodExercise
             return c;
         }
 
-        public static int multBy15(int num1, int num2 = 15)
+        public int multBy15(int num1, int num2 = 15)
         {
             int c = num1 * num2;
             return c;
@@ -45,6 +45,12 @@ namespace MainMethodExercise
         {
             num1 = num1 + 15;
             Console.WriteLine(num2);
+        }
+
+        public void divideData(int num)
+        {
+            int c = num / 2;
+            Console.WriteLine(c);
         }
     }
 }
