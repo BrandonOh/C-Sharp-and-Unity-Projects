@@ -34,6 +34,8 @@ namespace MainMethodExercise
             int num3 = Operation.multBy15(num1);
             
             Console.WriteLine(num3);
+
+            Operation.addAndDisplay(30, num2: 60);
             Console.ReadLine();
         }
     }

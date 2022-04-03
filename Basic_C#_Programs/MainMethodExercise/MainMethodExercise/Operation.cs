@@ -40,5 +40,11 @@ namespace MainMethodExercise
             int c = num1 * num2;
             return c;
         }
+
+        public static void addAndDisplay(int num1, int num2)
+        {
+            num1 = num1 + 15;
+            Console.WriteLine(num2);
+        }
     }
 }
