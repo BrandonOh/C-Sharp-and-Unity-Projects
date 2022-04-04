@@ -52,5 +52,19 @@ namespace MainMethodExercise
             int c = num / 2;
             Console.WriteLine(c);
         }
+
+        public void outputNum (out int number)
+        {
+            number = 15;
+        }
+    }
+
+    public static class returnNum
+    {
+        public static int addFifteen(int num)
+        {
+            int c = num + 15;
+            return c;
+        }
     }
 }

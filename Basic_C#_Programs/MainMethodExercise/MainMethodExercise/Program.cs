@@ -41,6 +41,12 @@ namespace MainMethodExercise
             int num4 = Convert.ToInt32(Console.ReadLine());
 
             operation.divideData(num4);
+
+            operation.outputNum(out int numOut);
+            Console.WriteLine(numOut);
+
+            Console.WriteLine(returnNum.addFifteen(15));
+
             Console.ReadLine();
         }
     }
