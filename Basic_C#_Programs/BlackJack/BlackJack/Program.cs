@@ -10,8 +10,11 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
+            Game game = new Game();
+            game.Dealer = "Brandon";
+            game.Name = "BlackJack";
 
+            Deck deck = new Deck();
             deck.Shuffle(3);
 
             foreach(Card card in deck.Cards)
