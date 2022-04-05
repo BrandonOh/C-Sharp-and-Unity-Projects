@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace AbstractExercise
 {
-    public class Employee : Person
-    {
+    public class Employee : Person, IQuittable
+    { 
+    
         public override void SayName()
         {
             Console.WriteLine(firstName + " " + lastName);
         }
+
+        public void Quit()
+        {
+            Console.WriteLine("I Quit");
+        }
+        
     }
 }

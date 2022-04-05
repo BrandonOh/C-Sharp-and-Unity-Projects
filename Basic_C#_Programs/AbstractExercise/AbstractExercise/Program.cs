@@ -11,9 +11,14 @@ namespace AbstractExercise
         static void Main(string[] args)
         {
             Employee em = new Employee();
+            IQuittable iq = new Employee();
+
             em.firstName = "Sample";
             em.lastName = "Student";
             em.SayName();
+
+            iq.Quit();
+
             Console.ReadLine();
         }
     }
