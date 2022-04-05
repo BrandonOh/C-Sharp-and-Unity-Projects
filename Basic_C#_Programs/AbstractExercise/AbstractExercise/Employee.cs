@@ -10,7 +10,7 @@ namespace AbstractExercise
     {
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine(firstName + " " + lastName);
         }
     }
 }
