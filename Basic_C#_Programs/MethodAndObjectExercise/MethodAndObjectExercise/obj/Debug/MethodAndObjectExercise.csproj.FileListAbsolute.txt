@@ -1,0 +1,6 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\bin\Debug\MethodAndObjectExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\bin\Debug\MethodAndObjectExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\bin\Debug\MethodAndObjectExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\obj\Debug\MethodAndObjectExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\obj\Debug\MethodAndObjectExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodAndObjectExercise\MethodAndObjectExercise\obj\Debug\MethodAndObjectExercise.pdb

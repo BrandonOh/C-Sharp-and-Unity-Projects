@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\bin\Debug\AbstractExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\bin\Debug\AbstractExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\bin\Debug\AbstractExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\obj\Debug\AbstractExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\obj\Debug\AbstractExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\obj\Debug\AbstractExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractExercise\AbstractExercise\obj\Debug\AbstractExercise.pdb
