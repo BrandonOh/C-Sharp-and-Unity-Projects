@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace OperatorOverloadExercise
 {
-    class Employee : Person
+    class Employee
     {
-        public static Person operator== (Person pe, Person pe2)
-        {
+        public string id;
 
+        public static bool operator== (Employee em, Employee em2)
+        {
+            return em.id == em2.id;
         }
 
-        public static Person operator!= (Person pe, Person pe2)
+        public static bool operator!= (Employee em, Employee em2)
         {
-
+            return em.id != em2.id;
         }
     }
 }

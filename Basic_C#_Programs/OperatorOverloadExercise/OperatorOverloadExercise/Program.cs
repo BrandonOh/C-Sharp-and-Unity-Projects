@@ -8,13 +8,17 @@ namespace OperatorOverloadExercise
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main()
+        {         
             Employee em = new Employee();
-            Person pe = new Person();
+            Employee em2 = new Employee();
 
-            pe.id = "1";
-            pe.id2 = "2";
+            em.id = "1";
+            em2.id = "1";
+
+            Console.WriteLine(em == em2);
+            Console.WriteLine(em != em2);
+            Console.ReadLine();
         }
     }
 }

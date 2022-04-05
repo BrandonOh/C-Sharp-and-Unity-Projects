@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\bin\Debug\OperatorOverloadExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\bin\Debug\OperatorOverloadExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\bin\Debug\OperatorOverloadExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\obj\Debug\OperatorOverloadExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\obj\Debug\OperatorOverloadExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\obj\Debug\OperatorOverloadExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\OperatorOverloadExercise\OperatorOverloadExercise\obj\Debug\OperatorOverloadExercise.pdb
