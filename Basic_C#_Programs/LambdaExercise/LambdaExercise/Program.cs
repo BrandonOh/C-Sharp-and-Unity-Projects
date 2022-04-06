@@ -10,49 +10,120 @@ namespace LambdaExercise
     {
         static void Main(string[] args)
         {
-            List<string> employees = new List<string>()
+            Employee employee1 = new Employee()
             {
-               "Jeffrey Wilcox ID: 024",
-               "Eiliyah Mcclurg ID: 089",
-               "Cheyann Serio ID: 004",
-               "Hailey Palmer ID: 892",
-               "Joe Tyrrell ID: 405",
-               "Saleh Vandiver ID: 345",
-               "Lenna Peavy ID: 607",
-               "Joe Gallo ID: 023",
-               "Kollin Lacroix ID: 001",
-               "Jocelynn Overton ID: 782"
+                fName = "Jeffery",
+                lName = "Wilcox",
+                idNum = 001
             };
 
-            // Foreach Loop
-            List<string> namesJoe = new List<string>();
-            foreach(string element in employees)
+            Employee employee2 = new Employee()
             {
-                if(element.Contains("Joe"))
+                fName = "Eiliya",
+                lName = "Mcclurg",
+                idNum = 002
+            };
+
+            Employee employee3 = new Employee()
+            {
+                fName = "Cheyann",
+                lName = "Serio",
+                idNum = 003
+            };
+
+            Employee employee4 = new Employee()
+            {
+                fName = "Hailey",
+                lName = "Palmer",
+                idNum = 004
+            };
+
+            Employee employee5 = new Employee()
+            {
+                fName = "Joe",
+                lName = "Tyrrell",
+                idNum = 005
+            };
+
+            Employee employee6 = new Employee()
+            {
+                fName = "Saleh",
+                lName = "Vandiver",
+                idNum = 006
+
+            };
+
+            Employee employee7 = new Employee()
+            {
+                fName = "Lenna",
+                lName = "Peavy",
+                idNum = 007
+            };
+
+            Employee employee8 = new Employee()
+            {
+                fName = "Joe",
+                lName = "Gallo",
+                idNum = 008
+            };
+
+            Employee employee9 = new Employee()
+            {
+                fName = "Kollin",
+                lName = "Lacroix",
+                idNum = 009
+            };
+
+            Employee employee10 = new Employee()
+            {
+                fName = "Jocelynn",
+                lName = "Overton",
+                idNum = 010
+            };
+
+            List<Employee> employees = new List<Employee>();
+
+            employees.Add(employee1);
+            employees.Add(employee2);
+            employees.Add(employee3);
+            employees.Add(employee4);
+            employees.Add(employee5);
+            employees.Add(employee6);
+            employees.Add(employee7);
+            employees.Add(employee8);
+            employees.Add(employee9);
+            employees.Add(employee10);
+
+
+            // Foreach Loop
+            List<Employee> namesJoe = new List<Employee>();
+            foreach(Employee element in employees)
+            {
+                if(element.fName.Contains("Joe"))
                 {
                     namesJoe.Add(element);
                 }
             }
-            foreach(string element in namesJoe)
+            foreach(Employee element in namesJoe)
             {
-                Console.WriteLine(element);
+                Console.WriteLine(element.fName + " " + element.lName + " id: " + element.idNum);
             }
             namesJoe.Clear();
 
             Console.WriteLine();
             // Lambda Expression
-            namesJoe = employees.Where(x => x.Contains("Joe")).ToList();
-            foreach (string element in namesJoe)
+            namesJoe = employees.Where(x => x.fName.Contains("Joe")).ToList();
+            foreach (Employee element in namesJoe)
             {
-                Console.WriteLine(element);
+                Console.WriteLine(element.fName + " " + element.lName + " id: " + element.idNum);
             }
 
             Console.WriteLine();
             //Lambda Expression greater than 5
-            List<string> idGreater5 = employees.Where(x => (Convert.ToInt32(x.Substring(x.IndexOf(": ") + 2)) > 5)).ToList();
-            foreach (string element in idGreater5)
+            List<Employee> idGreater5 = employees.Where(x => (x.idNum > 5)).ToList();
+            foreach (Employee element in idGreater5)
             {
-                Console.WriteLine(element);
+                Console.WriteLine(element.fName + " " + element.lName + " id: " + element.idNum);
             }
             Console.ReadLine();
         }
