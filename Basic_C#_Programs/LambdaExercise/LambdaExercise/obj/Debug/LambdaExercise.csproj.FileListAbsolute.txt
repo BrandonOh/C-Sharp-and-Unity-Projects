@@ -1,0 +1,7 @@
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.exe.config
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.pdb
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.exe
+C:\Users\Brandon\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.pdb
