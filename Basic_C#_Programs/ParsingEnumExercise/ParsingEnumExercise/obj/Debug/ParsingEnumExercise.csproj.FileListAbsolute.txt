@@ -1,0 +1,7 @@
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\bin\Debug\ParsingEnumExercise.exe.config
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\bin\Debug\ParsingEnumExercise.exe
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\bin\Debug\ParsingEnumExercise.pdb
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\obj\Debug\ParsingEnumExercise.csproj.AssemblyReference.cache
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\obj\Debug\ParsingEnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\obj\Debug\ParsingEnumExercise.exe
+C:\Users\Brandon\source\repos\ParsingEnumExercise\ParsingEnumExercise\obj\Debug\ParsingEnumExercise.pdb
