@@ -25,9 +25,12 @@ namespace BlackJack
                 while(player.isActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
-                }    
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
             }
-
+            Console.WriteLine("When your ready to play come back!");
+            Console.ReadLine();
         }
     }
 }
